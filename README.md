@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer , Programmer
 -------------------------------
 
-I've been learning ASP.NET MVC 
+ 
 I'm looking for a web developer
 I've been worked ERP Program from 4 years
 
